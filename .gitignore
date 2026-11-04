@@ -1,0 +1,16 @@
+# Arquivos pesados de firmware (hospedados nas Releases do GitHub)
+firmware/
+*.zip
+*.7z
+*.rar
+*.tar
+*.gz
+
+# Scripts locais de desenvolvimento / publicação
+PUBLICAR_NO_GITHUB.bat
+
+# Temporários do Windows
+Thumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+*.log

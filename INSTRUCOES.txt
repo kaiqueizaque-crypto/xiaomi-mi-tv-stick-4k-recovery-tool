@@ -1,0 +1,94 @@
+================================================================================
+     XIAOMI MI TV STICK 4K (MDZ-27-AA / "soul") - GUIA DE RECUPERAÇÃO FÁCIL
+================================================================================
+
+Este kit foi criado para que QUALQUER PESSOA consiga recuperar o Mi TV Stick 4K 
+que travou no logo "Mi", ficou reiniciando em loop ou não dá sinal após uma 
+tentativa de atualização do sistema.
+
+Não é necessário ter nenhum conhecimento técnico ou digitar comandos no terminal.
+O programa faz todo o trabalho pesado por você.
+
+--------------------------------------------------------------------------------
+1. O QUE VOCÊ VAI PRECISAR
+--------------------------------------------------------------------------------
+1. O seu Xiaomi Mi TV Stick 4K (Modelo MDZ-27-AA).
+2. Um CABO USB DE DADOS (USB para Micro-USB):
+   * ATENÇÃO: Muitos cabos que vêm em caixinhas de carregadores baratos servem
+     apenas para carregar bateria e NÃO passam dados para o computador. 
+     Se o computador não der sinal nenhum, teste com outro cabo de celular bom.
+3. Um computador com Windows 10 ou Windows 11.
+4. Um carregador de celular de tomada (5V e pelo menos 1.5A a 2A) para ligar na TV.
+
+--------------------------------------------------------------------------------
+2. PASSO A PASSO DA RECUPERAÇÃO (MUITO FÁCIL)
+--------------------------------------------------------------------------------
+
+PASSO 1: ABRIR O PROGRAMA
+- Dê dois cliques no arquivo:
+  👉 EXECUTAR_RECUPERACAO.bat
+- Uma janela do Windows vai perguntar se você permite alterações (permissão de 
+  administrador). Clique em "SIM".
+- O programa vai abrir e verificar/instalar todos os drivers necessários para o 
+  seu computador automaticamente!
+
+PASSO 2: ESCOLHER A RECUPERAÇÃO AUTOMÁTICA
+- No menu verde que aparecer na tela, digite o número 1 e pressione [ENTER]:
+  [1] RECUPERAÇÃO AUTOMÁTICA EM 1 CLIQUE (Recomendado)
+
+PASSO 3: A REGRA DE OURO DO CABO USB (SIGA COM ATENÇÃO)
+O Mi TV Stick não tem bateria interna, ele vive da energia do cabo.
+Para o computador capturar o aparelho no milissegundo certo:
+1. Se o stick estiver conectado ao computador, DESCONECTE ele agora.
+2. Pressione qualquer tecla no teclado para o programa ficar aguardando
+   (você verá a mensagem: "< waiting for any device >").
+3. CONECTE O MI STICK NA PORTA USB DO COMPUTADOR.
+4. NÃO MEXA NO CABO! O programa vai detectar o stick, mudar para o modo de 
+   gravação e instalar todo o sistema oficial do Android 14 sozinho.
+
+* Nota: A etapa da partição "super" tem quase 2 GB e pode levar de 2 a 4 minutos.
+  Não se preocupe, isso é perfeitamente normal! Deixe o computador trabalhar 
+  até aparecer a mensagem verde de "RECUPERAÇÃO CONCLUÍDA COM 100% DE SUCESSO!".
+
+PASSO 4: LIGANDO O APARELHO NA TELEVISÃO
+Depois que o programa der a mensagem de sucesso:
+1. Desconecte o Mi Stick do computador.
+2. Plugue o Mi Stick na entrada HDMI da sua TV.
+3. Ligue o cabo de energia em uma FONTE DE CELULAR DIRETO NA TOMADA (5V 2A).
+   * NUNCA ligue na porta USB da própria televisão! A USB da TV é fraca e fará 
+     o aparelho reiniciar.
+4. O primeiro boot após a reinstalação leva de 5 a 10 minutos organizando os 
+   arquivos antes de aparecer a tela inicial. Tenha paciência e deixe ele ligar!
+5. Quando abrir a tela inicial colorida do Android TV, basta parear o controle 
+   remoto e aproveitar o seu aparelho novo em folha!
+
+--------------------------------------------------------------------------------
+3. DÚVIDAS E SOLUÇÃO DE PROBLEMAS
+--------------------------------------------------------------------------------
+- O aparelho fica conectando e desconectando a cada 2 segundos no PC:
+  Isso é normal antes da recuperação! Use a Opção [1] do programa: o nosso 
+  sistema foi programado para capturar a conexão no momento exato em que ele liga.
+
+- O computador não emite nenhum som e não detecta nada ao plugar:
+  Quase certamente o seu cabo USB é apenas de energia (sem fios de dados internos) 
+  ou a porta USB do PC está fraca. Troque de cabo e use preferencialmente as 
+  portas USB de trás do computador (direto na placa-mãe).
+
+- O stick travou no meio da gravação:
+  Se alguém esbarrou no cabo e ele soltou durante a gravação, basta fechar o 
+  programa, abrir o "EXECUTAR_RECUPERACAO.bat" e repetir a Opção [1] desde o início.
+
+--------------------------------------------------------------------------------
+4. CRÉDITOS E AGRADECIMENTOS
+--------------------------------------------------------------------------------
+Este projeto é uma versão remodelada, automatizada e facilitada para o usuário final, 
+construída sobre a pesquisa, descobertas e arquivos disponibilizados pela comunidade:
+
+- RodrigoDeveloperX (pelo repositório original 'xiaomi-mi-tv-stick-4k-mdz-27-aa-recovery',
+  pela investigação da falha da OTA do Android 14 e testes no hardware).
+- Comunidade 4PDA (pelo pioneirismo e disponibilização da firmware oficial assinada).
+- Amlogic & Google (pelas ferramentas originais de Fastboot e drivers de sistema).
+
+Este kit remodelado foi empacotado para transformar uma tarefa técnica avançada 
+em uma solução acessível a qualquer pessoa. Compartilhe com quem precisar!
+================================================================================
